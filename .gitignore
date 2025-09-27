@@ -1,1 +1,4 @@
-
+reports/
+data/
+*.pyc
+__pycache__/
