@@ -1,1 +1,16 @@
-
+min_score: 60
+tlds_preference:
+  com: 10
+  net: 6
+  org: 6
+  fr: 8
+  ma: 8
+  io: 5
+  ai: 9
+length_penalty:
+  threshold: 18
+  penalty: 8
+hyphen_penalty: 5
+wayback_weight: 0.5      # 0.5 point par snapshot (capé)
+rdap_age_weight: 2        # 2 points par année
+brand_bonus: 5            # appliqué si court & sans chiffres
