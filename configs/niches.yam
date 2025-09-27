@@ -1,1 +1,12 @@
-
+keywords:
+  ai: ["ai", "ml", "gpt", "bot"]
+  travel: ["travel", "hotel", "voyage", "booking"]
+  health: ["clinic", "med", "care", "santé", "fitness"]
+  finance: ["pay", "wallet", "invest", "crypto"]
+  local: ["marrakech", "casablanca", "rabat", "paris"]
+weights:
+  ai: 8
+  travel: 6
+  health: 7
+  finance: 7
+  local: 5
